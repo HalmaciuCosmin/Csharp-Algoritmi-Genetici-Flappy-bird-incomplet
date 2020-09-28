@@ -1,0 +1,10 @@
+C:\Users\Kabut\source\repos\Flappy\Flappy\bin\Debug\Flappy.exe.config
+C:\Users\Kabut\source\repos\Flappy\Flappy\bin\Debug\Flappy.exe
+C:\Users\Kabut\source\repos\Flappy\Flappy\bin\Debug\Flappy.pdb
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.csprojAssemblyReference.cache
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.Form1.resources
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.cache
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.csproj.CoreCompileInputs.cache
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.exe
+C:\Users\Kabut\source\repos\Flappy\Flappy\obj\Debug\Flappy.pdb
